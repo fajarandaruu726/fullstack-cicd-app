@@ -1,3 +1,9 @@
+// ============================================================
+// Maintenance Enterprise v2.6 - Backend API Server
+// Express REST API + Socket.io (real-time) + Redis cache + Multer
+// Dokumentasi header: Ahmad Danu Risky Lubis (231112458)
+// ============================================================
+
 const express = require('express');
 const http = require('http');
 const { Server } = require('socket.io');
