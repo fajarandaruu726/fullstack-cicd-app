@@ -51,3 +51,9 @@ Aplikasi ini berjalan dalam virtual network terisolasi yang terdiri dari 4 conta
    ```bash
    docker compose down -v
    docker compose up -d --build
+   ```
+
+## Tim Pengembang
+
+- Fajar Arya Priangga (211112346) - Ketua / Lead DevOps & Full-Stack Developer
+- Richi Putra Lin (231110321) - Backend Developer & Database-Cache Engineer
