@@ -1,3 +1,10 @@
+# ============================================================
+# Maintenance Enterprise - Docker Stack (4 container)
+# frontend (Nginx) | backend (Node.js) | PostgreSQL 15 | Redis 7
+# Stack diverifikasi oleh: Asyifa Alfath (231112897)
+# ============================================================
+
+
 version: '3.8'
 
 services:
